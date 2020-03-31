@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc850212-9f77-4c3f-bb3a-dc139476f1ca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZsylehziDnj0Sx4oIXi0qdN4xB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TriangleClassifierTest.equiangularTriangle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;TriangleClassifierTest.equiangularTriangle&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.TriangleClassifierTest.equiangularTriangle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc850212-9f77-4c3f-bb3a-dc139476f1ca" name="Default Changelist" comment="" />
+      <created>1585642248867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585642248867</updated>
+      <workItem from="1585642251574" duration="1508000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1554" height="196" key="GridCell.Tab.0.bottom" timestamp="1585643837749">
+      <screen x="0" y="27" width="1600" height="802" />
+    </state>
+    <state width="1554" height="196" key="GridCell.Tab.0.bottom/0.27.1600.802@0.27.1600.802" timestamp="1585643837749" />
+    <state width="1554" height="196" key="GridCell.Tab.0.center" timestamp="1585643837749">
+      <screen x="0" y="27" width="1600" height="802" />
+    </state>
+    <state width="1554" height="196" key="GridCell.Tab.0.center/0.27.1600.802@0.27.1600.802" timestamp="1585643837749" />
+    <state width="1554" height="196" key="GridCell.Tab.0.left" timestamp="1585643837749">
+      <screen x="0" y="27" width="1600" height="802" />
+    </state>
+    <state width="1554" height="196" key="GridCell.Tab.0.left/0.27.1600.802@0.27.1600.802" timestamp="1585643837749" />
+    <state width="1554" height="196" key="GridCell.Tab.0.right" timestamp="1585643837749">
+      <screen x="0" y="27" width="1600" height="802" />
+    </state>
+    <state width="1554" height="196" key="GridCell.Tab.0.right/0.27.1600.802@0.27.1600.802" timestamp="1585643837749" />
+    <state x="467" y="323" width="646" height="208" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585642354950">
+      <screen x="0" y="27" width="1600" height="802" />
+    </state>
+    <state x="467" y="323" width="646" height="208" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.27.1600.802@0.27.1600.802" timestamp="1585642354950" />
+    <state x="540" y="144" width="509" height="566" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585642749121">
+      <screen x="0" y="27" width="1600" height="802" />
+    </state>
+    <state x="540" y="144" width="509" height="566" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.27.1600.802@0.27.1600.802" timestamp="1585642749121" />
+  </component>
+</project>
